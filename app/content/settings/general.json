@@ -2,7 +2,7 @@
   "title": "Home",
   "titleTemplate": "| Projeto Gogh - A cultura deve ser para todos",
   "welcomeText": "# Seja bem-vindo ao projeto Gogh - A cultura deve ser para todos \n\n\n\n\n\n\n\n",
-  "logo": "/images/uploads/logo.svg",
+  "logo": "/images/uploads/logo.png",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
