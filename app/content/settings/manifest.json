@@ -1,7 +1,7 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
+  "name": "Projeto Gogh",
+  "shortName": "Projeto Gogh",
+  "description": "Um projeto de chatbot com inteligência artificial para democratização do acesso a cultura",
   "themeColor": "#0b3765",
   "backgroundColor": "#ffffff",
   "lang": "en"
